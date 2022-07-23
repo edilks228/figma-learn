@@ -750,6 +750,10 @@ img{
     margin-bottom: 77px;
 }
 
+.tour-info{
+    padding-left: 47px;
+}
+
 .tour-title{
     font-weight: 500;
     font-size: 30px;
@@ -778,3 +782,13 @@ img{
 }
 
 /*tour style end*/
+/*top start*/
+
+.top{
+    margin-bottom: 86px;
+}
+.top-title{
+    margin-bottom: 54px;
+}
+
+/*top end*/
