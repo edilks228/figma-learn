@@ -420,14 +420,14 @@ img{
 
 .wrapper{
   max-width: 1060px;
-  margin: 0px auto;
-  padding: 15px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 
 .wrapper-full{
     max-width: 1262px;
     margin: 0 auto;
-    padding: 15px;
+    padding: 0 15px;
 }
 .section-title{
     font-weight: 500;
@@ -992,7 +992,8 @@ img{
         position: fixed;
         top: 0;
         left: 0;
-        background: black;
+        background-color:black ;
+        color: #fff;
         z-index: 10;
         padding: 75px;
         transform: translateX(100%);
@@ -1007,6 +1008,7 @@ img{
         width: 100%;
         margin-right: 0;
         margin-bottom: 30px;
+        z-index: 11;
 
     }
     .header_item:last-child{
